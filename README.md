@@ -18,3 +18,8 @@ python train.py --dataroot [] --name [] --model [] --gpu_ids 0 --lambda_spatial 
 python test.py --dataroot [] --checkpoints_dir ./checkpoints --name [] --model [] --num_test []
 ```
 
+## Acknowledgments
+This code heavily borrowes from [CUT](https://github.com/JunlinHan/DCLGAN),[F/LSeSim](https://github.com/lyndonzheng/F-LSeSim), and [KAN-CUT](https://github.com/amaha7984/KAN-CUT).
+
+## Note
+The full version of the paper will be uploaded after acceptance.
