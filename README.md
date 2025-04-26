@@ -18,6 +18,16 @@ python train.py --dataroot [] --name [] --model [] --gpu_ids 0 --lambda_spatial 
 python test.py --dataroot [] --checkpoints_dir ./checkpoints --name [] --model [] --num_test []
 ```
 
+## Translation results
+### SEN1-2 dataset
+![SEN1-2](imgs/SEN.png)
+
+### QXSLAB dataset
+![QXSLAB](imgs/QXS.png)
+
+### SAR2Opt dataset
+![SAR2Opt](imgs/OPT.png)
+
 ## Acknowledgments
 This code heavily borrowes from [CUT](https://github.com/JunlinHan/DCLGAN),[F/LSeSim](https://github.com/lyndonzheng/F-LSeSim), and [KAN-CUT](https://github.com/amaha7984/KAN-CUT).
 
