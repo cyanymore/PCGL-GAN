@@ -20,13 +20,13 @@ python test.py --dataroot [] --checkpoints_dir ./checkpoints --name [] --model [
 
 ## Translation results
 ### SEN1-2 dataset
-![SEN1-2](imgs/SEN.png)
+![SEN1-2](imgs/sen.png)
 
 ### QXSLAB dataset
-![QXSLAB](imgs/QXS.png)
+![QXSLAB](imgs/qxs.png)
 
 ### SAR2Opt dataset
-![SAR2Opt](imgs/OPT.png)
+![SAR2Opt](imgs/opt.png)
 
 ## Acknowledgments
 This code heavily borrowes from [CUT](https://github.com/JunlinHan/DCLGAN),[F/LSeSim](https://github.com/lyndonzheng/F-LSeSim), and [KAN-CUT](https://github.com/amaha7984/KAN-CUT).
