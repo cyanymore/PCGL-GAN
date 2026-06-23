@@ -32,4 +32,11 @@ python test.py --dataroot [] --checkpoints_dir ./checkpoints --name [] --model [
 This code heavily borrowes from [CUT](https://github.com/JunlinHan/DCLGAN),[F/LSeSim](https://github.com/lyndonzheng/F-LSeSim), and [KAN-CUT](https://github.com/amaha7984/KAN-CUT).
 
 ## Note
-The full version of the paper will be uploaded after acceptance.
+@article{chen2026towards,
+  title={Towards SAR-to-optical image translation via perception correlative learning and global-local feature collaboration},
+  author={Chen, Yu and Zhan, Weida and Jiang, Yichun and Zhu, Depeng and Xu, Xiaoyu and Guo, Jinxin and Hao, Ziqiang},
+  journal={Pattern Recognition},
+  pages={114186},
+  year={2026},
+  publisher={Elsevier}
+}
